@@ -1,10 +1,10 @@
-DROP DATABASE IF EXISTS `team_5_montgomery_county_crime_db`;
-CREATE DATABASE IF NOT EXISTS `team_5_montgomery_county_crime_db` /*!40100 DEFAULT CHARACTER SET utf8mb4
+DROP DATABASE IF EXISTS `montgomery_county_crime_db`;
+CREATE DATABASE IF NOT EXISTS `montgomery_county_crime_db` /*!40100 DEFAULT CHARACTER SET utf8mb4
 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
-USE `team_5_montgomery_county_crime_db`;
+USE `montgomery_county_crime_db`;
 -- MySQL dump 10.13  Distrib 8.0.34, for Win64 (x86_64)
 --
--- Host: localhost    Database: team_5_montgomery_county_crime_db
+-- Host: localhost    Database: montgomery_county_crime_db
 -- ------------------------------------------------------
 -- Server version	8.0.34
 
